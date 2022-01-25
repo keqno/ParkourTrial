@@ -1,0 +1,28 @@
+{
+  "checkpointsData": [
+    {
+      "worldName": "world",
+      "x": 258,
+      "y": 69,
+      "z": 38
+    },
+    {
+      "worldName": "world",
+      "x": 245,
+      "y": 74,
+      "z": 30
+    },
+    {
+      "worldName": "world",
+      "x": 233,
+      "y": 78,
+      "z": 44
+    },
+    {
+      "worldName": "world",
+      "x": 233,
+      "y": 79,
+      "z": 64
+    }
+  ]
+}
